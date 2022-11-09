@@ -1,0 +1,90 @@
+.wrapper h1 {
+  width:80%;
+  margin:auto;
+  background-color: tan;
+  box-shadow: 2in;
+}
+.itembox {
+  border-radius: 1%;
+  border: #17008a;
+  box-shadow: 300px;
+  color: maroon;
+  background-color: tan;
+}
+.itembox h2 {
+   border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: maroon;
+  background-color: tan;
+ }
+.itembox p{
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: navy;
+  background-color: tan;
+}
+.itembox h3{
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: maroon;
+  background-color: tan;
+}
+.itembox ol {
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: #450202;
+  background-color: tan;
+}
+.itembox ul {
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: #450202;
+  background-color: tan;
+}
+.favorite {
+  border: #17008a;
+  border-radius: 1%;
+  box-shadow: 300px;
+  color: maroon;
+  background-color: tan;
+}
+.favorite h2 {
+   border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: maroon;
+  background-color: tan;
+ }
+.favorite p{
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: navy;
+  background-color: tan;
+}
+.favorite h3{
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: maroon;
+  background-color: tan;
+}
+.favorite ol {
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: #450202;
+  background-color: tan;
+}
+.favorite ul {
+  border: darkred;
+  border-radius: 20%;
+  box-shadow: 300px;
+  color: #450202;
+  background-color: tan;
+}
