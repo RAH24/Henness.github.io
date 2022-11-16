@@ -1,0 +1,19 @@
+#wrapper img{
+  width: 400px;
+  height: 300px;
+}
+#wrapper{
+  width:60%;
+  margin:auto;
+  margin-top:30px;
+}
+#wrapper ul{
+  list-style-image: url("rea.jpg");
+}
+#bordering ul{
+  background-color: lime;
+  color:blue;
+  background-image:url("images/baseball1.jpg");
+  background-size:cover;
+  
+}
